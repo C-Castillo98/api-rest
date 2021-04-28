@@ -1,0 +1,19 @@
+1.- En Visual Code, presionar CTRL+SHIFT+Ñ
+2.- Escribir el comando "node src/index.js"
+
+Endcodes:
+http://localhost:3000/api/ejercicio0
+http://localhost:3000/api/ejercicio1
+http://localhost:3000/api/ejercicio2
+http://localhost:3000/api/ejercicio3
+http://localhost:3000/api/ejercicio4
+http://localhost:3000/api/ejercicio5
+http://localhost:3000/api/ejercicio6
+http://localhost:3000/api/ejercicio7
+
+LIBRERIAS
+nodemon
+morgan
+
+FRAMEWORK
+Express
