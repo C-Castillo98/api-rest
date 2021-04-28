@@ -12,7 +12,7 @@ app.use(morgan(`dev`));
 app.use(express.urlencoded({extended: false}));
 app.use(express.json());
 
-//rutas
+//rutas WENA CARLOS
 app.use('/api/ejercicio0',require('./routes/ejercicio0'));
 app.use('/api/ejercicio1',require('./routes/ejercicio1'));
 app.use('/api/ejercicio2',require('./routes/ejercicio2'));
